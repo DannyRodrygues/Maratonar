@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maratonar</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string name="titulo">Titulo:</string>
+    <string name="categria">Categoria:</string>
+    <string name="status">Status:</string>
+    <string name="as_entradas_foram_apagadas">As entradas foram apagadas!</string>
+    <string name="faltou_informar_o_titulo">Faltou informar o Titulo!</string>
+    <string name="faltou_informar_a_categoria">Faltou informar a Categoria!</string>
+    <string name="titulotoast">"Titulo: "</string>
+    <string name="categoriatoast">"Categoria: "</string>
+    <string name="o_titulo_deve_conter_apenas_letras">O título deve conter apenas letras!</string>
+    <string name="a_categoria_deve_conter_apenas_letras">A categoria deve conter apenas letras!</string>
+    <string name="prioridade">Prioridade</string>
+    <string name="nao_prioridade">Não é Prioridade!</string>
+    <string name="assistido">Assistido</string>
+    <string name="nao_assistido">Não Assistido</string>
+    <string name="faltou_preencher_o_status">Faltou preencher o Status!</string>
+    <string name="status_filme">"Status Filme: "</string>
+    <string name="classificacao_etaria">Classificação Etária:</string>
+    <string name="_10_a_12_anos">10 a 12 anos</string>
+    <string name="_14_a_16_anos">14 a 16 anos</string>
+    <string name="maiores_de_18_anos">Maiores de 18 anos</string>
+    <string name="livre">Livre</string>
+    <string name="selecione_a_classificacao_etaria">Selecione a classificação etária!</string>
+    <string name="classificacao_etariatoast">"Classificação Etária: "</string>
+    <string name="logo_maratonar">Logotipo Maratonar</string>
+    <string name="descricao">Aplicativo de Cadastro de Filmes e Séries!</string>
+    <string name="Autoria">Autor: <a href="https://github.com/DannyRodrygues">Daniella Oliveira Rodrigues</a></string>
+    <string name="sobre">Sobre</string>
+    <string name="controle_de_filmes">Controle de Filmes</string>
+    <string name="cadastro_filmes">Cadastro Filmes</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="nenhum_aplicativo_abriu_paginas_web">Nenhum aplicativo abriu paginas WEB</string>
+    <string name="nenhum_aplicativo_para_enviar_o_e_mail">Nenhum aplicativo para enviar o e-mail.</string>
+    <string name="contato_pelo_aplicativo">Contato pelo Aplicativo</string>
+    <string name="curso">Especialização em Tecnologia Java</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="editar_filme">Editar Filme</string>
+    <string name="sugerir_classificacao">Sugerir Classificação</string>
+    <string name="ordenacao">Ordenação</string>
+    <string name="restaurar_padroes">Restaurar Padrões</string>
+    <string name="as_configura_es_retornaram_para_o_padr_o_de_instala_o">As configurações retornaram para o padrão de instalação!!</string>
+    <string name="novo_filme">Novo Filme</string>
+    <string name="aviso">Aviso</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Nao</string>
+    <string name="deseja_deletar">Deseja realmente apagar?\n\"%1s\"</string>
+    <string name="deseja_retornar_padroes">Deseja restaurar os padrões?</string>
+    <string name="desfazer">Desfazer</string>
+    <string name="alteracao_realizada">Atualização de dados realizada</string>
+    <string name="erro_ao_tentar_inserir">Erro ao tentar inserir!!</string>
+    <string name="erro_ao_tentar_alterar">Erro ao tentar alterar!!</string>
+    <string name="erro_ao_tentar_deletar">Erro ao tentar excluir!!</string>
+    <string name="data_visualizada">Data Visualizada</string>
+    <string name="faltou_informar_a_data_visualizada">Faltou informar a Data Visualizada</string>
+    <string name="data_assistido_valor">Data Visualizada</string>
+    <string name="anotacoes_do_filme">Anotações sobre %1$s</string>
+    <string name="deseja_deletar_anotacao">Deseja deletar esta anotação?</string>
+    <string name="texto_nao_pode_ser_vazio">O texto não pode ficar vazio</string>
+    <string name="nova_anotacao">Nova Anotação</string>
+    <string name="edite_texto_anotacao">Editar Anotação</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="anotacoes">Anotações(%1$d)</string>
+
+
+</resources>

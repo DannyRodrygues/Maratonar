@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classificacao">
+        <item>@string/livre</item>
+        <item>@string/_10_a_12_anos</item>
+        <item>@string/_14_a_16_anos</item>
+        <item>@string/maiores_de_18_anos</item>
+    </string-array>
+
+    <string-array name="filmes_titulo">
+        <item>O Iluminado</item>
+        <item>Chamas da Vingança</item>
+        <item>Colheita Maldita</item>
+        <item>Carrie a Estranha</item>
+        <item>Olhos de Gato</item>
+        <item>Conta Comigo</item>
+        <item>O Sobrevivente</item>
+        <item>Louca Obsessão</item>
+        <item>Lembranças de um Verão</item>
+        <item>O Apanhador de Sonhos</item>
+    </string-array>
+
+    <string-array name="filmes_categoria">
+        <item>Suspense</item>
+        <item>Terror</item>
+        <item>Drama</item>
+        <item>Romance</item>
+        <item>Comédia</item>
+        <item>Açâo</item>
+        <item>Aventura</item>
+        <item>Ficção</item>
+        <item>Fantasia</item>
+        <item>Documentário</item>
+    </string-array>
+
+    <integer-array name="filmes_prioridade">
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+
+    <integer-array name="filmes_classificacao">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+    </integer-array>
+
+    <integer-array name="filmes_status">
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+</resources>

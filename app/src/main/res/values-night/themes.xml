@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Maratonar" parent="Theme.Material3.Dark">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/dark_red</item>
+        <item name="colorPrimaryVariant">@color/red_dark</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="android:textColorLink">@color/dark_red</item>
+
+    </style>
+    <color name="corSelecionada">@color/cinza_transparente</color>
+</resources>
