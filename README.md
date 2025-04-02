@@ -35,18 +35,12 @@ O Maratonar oferece uma série de funcionalidades para facilitar a organização
 
 ---
 
-## 📸 Screenshot
+## 📸 Demonstração Do Aplicativo
 
-Aqui está a tela "Sobre" do aplicativo:
+[🎥 Assista à demonstração do app](https://youtu.be/K_N9YrkGAW4)
 
-| ![Tela Sobre](https://github.com/user-attachments/assets/cb0fdc31-f8d1-4510-828a-f915ef4c353d)                  | **📢 Informações:**  <br><br> 📌 Ao clicar no site da *UTFPR*, você será redirecionado ao site da<br> Instituição com maiores informações sobre a Pós-Graduação. <br>👨‍💻 Ao clicar em Autor, o link te redirecionará à minha página (GitHub). <br>✉️ Ao clicar no E-mail informado, abrirá o app de E-mail já<br> configurado para me enviar um E-mail referente ao aplicativo.|
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 
-| ![Tela Listagem Filmes/Series](https://github.com/user-attachments/assets/38c58724-1f39-4745-88e0-e8cff305ac8a) | **📢 Informações:**  <br><br> A Tela Controle de Filmes mostra a listagem de todos os filmes e series que foram cadastrados. <br> Você pode escolher em visualizar na ordem Crescente ou Decrescente, ao clicar em A-Z ou Z-A.|
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 
-| ![Tela Cadastro](https://github.com/user-attachments/assets/ed56624c-b65d-4734-839a-a1361494c1ba)               | **📢 Informações:**  <br><br> A Tela Novo Filme é a tela onde se cadastra os filmes, podendo se cadastar o Titulo, <br>a categoria (Drama, terror, comédia, etc), também informar a data em que o filme foi visualizado, etc. |
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 
 
 
