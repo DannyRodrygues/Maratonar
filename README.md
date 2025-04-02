@@ -86,6 +86,10 @@ O projeto Maratonar - Cine Home foi desenvolvido utilizando as seguintes tecnolo
 
 ---
 
+## 📥 Baixar o APK
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/DannyRodrygues/Maratonar/releases/download/v4.0/app-release-signed.apk)
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a MIT License, o que significa que você pode utilizá-lo livremente, desde que forneça os devidos créditos ao autor.
